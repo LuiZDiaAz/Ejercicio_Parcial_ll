@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">InfoPersona</string>
+    <string name="et_Nombre_String">Inserte su Nombre</string>
+    <string name="et_Apellido_String">Inserte su Apellido</string>
+    <string name="etp_Telefono_String">Ingrese su Telefono</string>
+    <string name="tv_Resultado_String">Resultado: </string>
+
+</resources>
